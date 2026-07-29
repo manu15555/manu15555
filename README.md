@@ -1,4 +1,4 @@
-# Hello, I'm Manu Cufre
+# Hello, I'm Manu!
 <a href="https://www.linkedin.com/in/manuelcufrediaz/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity professional with hands-on experience as a SOC Analyst Tier 1, monitoring and investigating security alerts across cloud and enterprise environments. Passionate about cloud security, infrastructure as code, and continuous learning, with a growing focus on AWS and Azure security.
