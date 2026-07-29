@@ -12,7 +12,7 @@ After gaining experience in Security Operations, I developed a strong interest i
 | Skill | Associated Experience / Project |
 |-----------------------------------------------|----------------------------|
 | Infrastructure as Code (Terraform) | Terraform Projects (AWS Infrastructure, Lambda Import, RDS Multi-AZ) |
-| AWS Infrastructure Design | AWS Solutions Architect Projects |
+| AWS Infrastructure Design | AWS Solutions Architect Associate Certified, AWS Solutions Architect Projects/Labs |
 | AWS Cloud Services | AWS Cloud Practitioner & Hands-on AWS Labs |
 | Infrastructure Provisioning | Terraform Projects (VPC, EC2, RDS, Lambda) |
 | Multi-AZ Architecture Design | AWS RDS Multi-AZ with Bastion Host Deployment |
