@@ -87,13 +87,13 @@ After gaining experience in Security Operations, I developed a strong interest i
 
 ## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-CompTIA_Security+-E60012?&style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft_AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-TCM_Practical_Ethical_Hacking-008000?&style=for-the-badge" />
+<div> 
+<img src="https://img.shields.io/badge/-CompTIA_Security+-E60012?&style=for-the-badge&logo=comptia&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Microsoft_AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-TCM_Practical_Ethical_Hacking-008000?&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/-Terraform_Associate-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" /> 
 </div>
 
 # Projects
